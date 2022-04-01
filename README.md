@@ -1,6 +1,8 @@
 # **Citi Bike Data Analysis**
 
 ## **Overview**
+This analysis leverages publicly available Citi bike data to create an exploratory analysis for Des Moines, IA bringing a bike share program to their region.
+
 
 ## **Results**
 Data highlighting checkout time.
