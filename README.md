@@ -3,6 +3,8 @@
 ## **Overview**
 This analysis leverages publicly available Citi bike data to create an exploratory analysis for Des Moines, IA bringing a bike share program to their region.
 
+The story is visible here: [Tableau Public](https://public.tableau.com/app/profile/vincent.winting3464/viz/ModuleTableauDashboard/ChallengeStory?publish=yes)
+
 
 ## **Results**
 Data highlighting checkout time.
